@@ -122,6 +122,6 @@ Since no personal data is collected, no data processing activities occur.
 For questions regarding the app, please contact:
 
 Rene Marzulla  
-Email: your@email.com  
+Email: tiefflieger1981@googlemail.com  
 
 ---
