@@ -63,7 +63,7 @@ Da keine personenbezogenen Daten erhoben werden, findet keine datenschutzrechtli
 Bei Fragen zur App wenden Sie sich bitte an:
 
 Rene Marzulla  
-E-Mail: your@email.com  
+E-Mail: tiefflieger1981@googlemail.com  
 
 ---
 
@@ -125,3 +125,127 @@ Rene Marzulla
 Email: tiefflieger1981@googlemail.com  
 
 ---
+
+# Terms of Service – Berserker
+
+**Effective Date:** 01.02.2026
+
+These Terms of Service govern the use of the mobile game "Berserker" developed by Rene Marzulla.
+
+By downloading or using the app, you agree to these terms.
+
+---
+
+## 🇩🇪 Nutzungsbedingungen (Deutsch)
+
+### 1. Allgemeine Nutzung
+
+Berserker ist ein kostenloses Strategie-Brettspiel zur privaten Nutzung.
+
+Die Nutzung der App erfolgt auf eigene Verantwortung.
+
+---
+
+### 2. Keine Gewährleistung
+
+Die App wird „wie besehen“ bereitgestellt.
+
+Es wird keine Garantie für:
+- Fehlerfreiheit
+- dauerhafte Verfügbarkeit
+- Kompatibilität mit allen Geräten
+
+übernommen.
+
+---
+
+### 3. Haftungsbeschränkung
+
+Der Entwickler haftet nicht für:
+- Datenverlust
+- indirekte Schäden
+- Folgeschäden
+
+soweit gesetzlich zulässig.
+
+---
+
+### 4. Geistiges Eigentum
+
+Alle Inhalte der App, einschließlich:
+- Design
+- Grafiken
+- Spielmechaniken
+- Code
+
+sind Eigentum des Entwicklers und dürfen nicht ohne Zustimmung vervielfältigt oder verbreitet werden.
+
+---
+
+### 5. Änderungen
+
+Der Entwickler behält sich vor, die App oder diese Nutzungsbedingungen jederzeit zu aktualisieren.
+
+---
+
+### 6. Kontakt
+
+Rene Marzulla  
+Email: tiefflieger1981@googlemail.com  
+
+---
+
+## 🇬🇧 Terms of Service (English)
+
+### 1. General Use
+
+Berserker is a free strategy board game intended for personal use.
+
+Use of the app is at your own risk.
+
+---
+
+### 2. No Warranty
+
+The app is provided "as is" without warranties of any kind.
+
+No guarantee is made regarding:
+- Error-free operation
+- Continuous availability
+- Compatibility with all devices
+
+---
+
+### 3. Limitation of Liability
+
+The developer is not liable for:
+- Data loss
+- Indirect damages
+- Consequential damages
+
+to the extent permitted by law.
+
+---
+
+### 4. Intellectual Property
+
+All content of the app, including:
+- Design
+- Graphics
+- Game mechanics
+- Code
+
+remains the property of the developer and may not be reproduced without permission.
+
+---
+
+### 5. Changes
+
+The developer reserves the right to update the app or these Terms at any time.
+
+---
+
+### 6. Contact
+
+Rene Marzulla  
+Email: tiefflieger1981@googlemail.com
