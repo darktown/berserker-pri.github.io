@@ -1,251 +1,209 @@
 # Privacy Policy – Berserker
 
-**Effective Date:** 01.02.2026
+**Effective Date:** 01.02.2026  
 
-Berserker is a strategy board game developed by Rene Marzulla.
+Berserker is a strategy board game developed by **Rene Marzulla**.
 
 This Privacy Policy explains how the app handles user data.
 
 ---
 
-## 🇩🇪 Datenschutzerklärung (Deutsch)
+# 🇩🇪 Datenschutzerklärung (Deutsch)
 
-### 1. Datenerhebung
+## 1. Datenerhebung
 
-Die App **Berserker** erhebt, speichert oder verarbeitet **keine personenbezogenen Daten**.
+Die App **Berserker** erhebt selbst **keine personenbezogenen Daten** und betreibt keine eigenen Server zur Datenspeicherung.
 
-Es werden keine Daten wie:
-- Name
-- E-Mail-Adresse
-- Standort
-- Gerätekennungen
-- IP-Adresse
-
-erfasst oder übertragen.
+Spielstände und Einstellungen werden ausschließlich lokal auf dem Gerät gespeichert.
 
 ---
 
-### 2. Lokale Speicherung
+## 2. Lokale Speicherung
 
 Spielstände und Einstellungen werden ausschließlich lokal auf dem Gerät des Nutzers gespeichert.
 
 Diese Daten:
-- verlassen das Gerät nicht
-- werden nicht an Server übertragen
-- werden nicht mit Dritten geteilt
+
+- verlassen das Gerät nicht  
+- werden nicht an Server des Entwicklers übertragen  
+- werden nicht mit Dritten geteilt  
 
 ---
 
-### 3. Internetverbindung
+## 3. Internetverbindung
 
-Die App benötigt keine aktive Internetverbindung für die Nutzung.
+Die App kann eine Internetverbindung nutzen für:
 
----
+- Laden von Werbung  
+- Verifizierung von In-App-Käufen  
 
-### 4. Drittanbieter-Dienste
-
-Berserker verwendet keine:
-- Werbenetzwerke
-- Tracking-Tools
-- Analyse-Dienste
-- Cloud-Dienste
+Die Nutzung des Spiels selbst ist grundsätzlich auch ohne Internet möglich.
 
 ---
 
-### 5. Rechte der Nutzer
+## 4. Drittanbieter-Dienste
 
-Da keine personenbezogenen Daten erhoben werden, findet keine datenschutzrechtlich relevante Verarbeitung statt.
+Die App verwendet Dienste von Drittanbietern.
 
----
+### Google AdMob (Werbung)
 
-### 6. Kontakt
+Die kostenlose Version der App zeigt Werbung über **Google AdMob**.
 
-Bei Fragen zur App wenden Sie sich bitte an:
+**Anbieter**
 
-Rene Marzulla  
-E-Mail: tiefflieger1981@googlemail.com  
+Google Ireland Limited  
+Gordon House  
+Barrow Street  
+Dublin 4  
+Ireland  
 
----
+AdMob kann automatisch technische Informationen erfassen, z. B.:
 
-## 🇬🇧 Privacy Policy (English)
+- Geräteinformationen  
+- IP-Adresse  
+- Anzeigeninteraktionen  
 
-### 1. Data Collection
+Weitere Informationen:
 
-The app **Berserker** does not collect, store, or process any personal data.
-
-No information such as:
-- Name
-- Email address
-- Location data
-- Device identifiers
-- IP address
-
-is collected or transmitted.
+- https://policies.google.com/privacy  
+- https://policies.google.com/technologies/ads
 
 ---
 
-### 2. Local Storage
+### Google Play Billing (In-App-Käufe)
 
-Game progress and settings are stored locally on the user's device only.
+Die App bietet optionale **In-App-Käufe** über **Google Play Billing** an.
+
+Die Zahlungsabwicklung erfolgt vollständig über den **Google Play Store**.
+
+Dabei können Daten durch Google verarbeitet werden, z. B.:
+
+- Kaufhistorie  
+- Geräteinformationen  
+- Google-Konto  
+
+Weitere Informationen:
+
+https://policies.google.com/privacy
+
+---
+
+## 5. Rechte der Nutzer
+
+Nutzer haben jederzeit das Recht auf:
+
+- Auskunft über ihre Daten  
+- Berichtigung  
+- Löschung  
+
+im Rahmen der geltenden Datenschutzgesetze.
+
+---
+
+## 6. Kontakt
+
+**Rene Marzulla**
+
+E-Mail:  
+tiefflieger1981@googlemail.com
+
+---
+
+# 🇬🇧 Privacy Policy (English)
+
+## 1. Data Collection
+
+The app **Berserker** itself does **not collect or store personal data on developer servers**.
+
+Game progress and settings are stored locally on the user's device.
+
+---
+
+## 2. Local Storage
+
+Game progress and settings are stored locally on the device only.
 
 This data:
-- does not leave the device
-- is not transmitted to any servers
-- is not shared with third parties
+
+- does not leave the device  
+- is not transmitted to developer servers  
+- is not shared with third parties  
 
 ---
 
-### 3. Internet Connection
+## 3. Internet Connection
 
-The app does not require an active internet connection to function.
+The app may use an internet connection for:
 
----
+- loading advertisements  
+- verifying in-app purchases  
 
-### 4. Third-Party Services
-
-Berserker does not use:
-- Advertising networks
-- Tracking services
-- Analytics tools
-- Cloud services
+The game itself can generally be played offline.
 
 ---
 
-### 5. User Rights
+## 4. Third-Party Services
 
-Since no personal data is collected, no data processing activities occur.
+The app uses third-party services.
 
----
+### Google AdMob (Advertising)
 
-### 6. Contact
+The free version of the app displays ads via **Google AdMob**.
 
-For questions regarding the app, please contact:
+**Provider**
 
-Rene Marzulla  
-Email: tiefflieger1981@googlemail.com  
+Google Ireland Limited  
+Gordon House  
+Barrow Street  
+Dublin 4  
+Ireland  
 
----
+AdMob may automatically collect technical information such as:
 
-# Terms of Service – Berserker
+- device information  
+- IP address  
+- ad interaction data  
 
-**Effective Date:** 01.02.2026
+More information:
 
-These Terms of Service govern the use of the mobile game "Berserker" developed by Rene Marzulla.
-
-By downloading or using the app, you agree to these terms.
-
----
-
-## 🇩🇪 Nutzungsbedingungen (Deutsch)
-
-### 1. Allgemeine Nutzung
-
-Berserker ist ein kostenloses Strategie-Brettspiel zur privaten Nutzung.
-
-Die Nutzung der App erfolgt auf eigene Verantwortung.
+- https://policies.google.com/privacy  
+- https://policies.google.com/technologies/ads
 
 ---
 
-### 2. Keine Gewährleistung
+### Google Play Billing (In-App Purchases)
 
-Die App wird „wie besehen“ bereitgestellt.
+The app offers optional **in-app purchases** via **Google Play Billing**.
 
-Es wird keine Garantie für:
-- Fehlerfreiheit
-- dauerhafte Verfügbarkeit
-- Kompatibilität mit allen Geräten
+All payments are processed by the **Google Play Store**.
 
-übernommen.
+Google may process data such as:
 
----
+- purchase history  
+- device information  
+- Google account data  
 
-### 3. Haftungsbeschränkung
+More information:
 
-Der Entwickler haftet nicht für:
-- Datenverlust
-- indirekte Schäden
-- Folgeschäden
-
-soweit gesetzlich zulässig.
+https://policies.google.com/privacy
 
 ---
 
-### 4. Geistiges Eigentum
+## 5. User Rights
 
-Alle Inhalte der App, einschließlich:
-- Design
-- Grafiken
-- Spielmechaniken
-- Code
+Users have the right to:
 
-sind Eigentum des Entwicklers und dürfen nicht ohne Zustimmung vervielfältigt oder verbreitet werden.
+- access their personal data  
+- request corrections  
+- request deletion  
 
----
-
-### 5. Änderungen
-
-Der Entwickler behält sich vor, die App oder diese Nutzungsbedingungen jederzeit zu aktualisieren.
+according to applicable data protection laws.
 
 ---
 
-### 6. Kontakt
+## 6. Contact
 
-Rene Marzulla  
-Email: tiefflieger1981@googlemail.com  
+**Rene Marzulla**
 
----
-
-## 🇬🇧 Terms of Service (English)
-
-### 1. General Use
-
-Berserker is a free strategy board game intended for personal use.
-
-Use of the app is at your own risk.
-
----
-
-### 2. No Warranty
-
-The app is provided "as is" without warranties of any kind.
-
-No guarantee is made regarding:
-- Error-free operation
-- Continuous availability
-- Compatibility with all devices
-
----
-
-### 3. Limitation of Liability
-
-The developer is not liable for:
-- Data loss
-- Indirect damages
-- Consequential damages
-
-to the extent permitted by law.
-
----
-
-### 4. Intellectual Property
-
-All content of the app, including:
-- Design
-- Graphics
-- Game mechanics
-- Code
-
-remains the property of the developer and may not be reproduced without permission.
-
----
-
-### 5. Changes
-
-The developer reserves the right to update the app or these Terms at any time.
-
----
-
-### 6. Contact
-
-Rene Marzulla  
-Email: tiefflieger1981@googlemail.com
+Email:  
+tiefflieger1981@googlemail.com
